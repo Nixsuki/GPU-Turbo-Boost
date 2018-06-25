@@ -1,0 +1,7 @@
+id=GPUTurboBoost
+name=GPU Turbo Boost
+version=v1
+versionCode=1
+author=EmperorEye1993
+description=This module allows GPU Turbo tweak to increase the phone’s GPU power by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
+minMagisk=1500
