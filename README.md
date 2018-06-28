@@ -32,10 +32,7 @@ This module uses the tool "resetprop" to modify the default values found in buil
 
 ## Changelog 
 * v1.0 - Initial Releaase
-* v2.0 - Various fixes
-*      - Removed unused codes.
-*      - Added GPU specific fuctionalities.
-*      - Fixed Black Screen and Game Graphic glitches.
+* v2.0 - Various fixes, Removed unused codes, Added GPU specific fuctionalities, Fixed Black Screen and Game Graphic glitches.
 
 ## Links
 * <a href="https://forum.xda-developers.com/apps/magisk/module-gpu-turbo-boost-t3808541">XDA GPU Turbo Boost Link</a>
