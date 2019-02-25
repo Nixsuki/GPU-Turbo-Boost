@@ -1,17 +1,19 @@
 # GPU Turbo Boost
 ## Description
-The GPU Turbo tweak claims to increase the phone’s GPU power by up to 75% but at the same time reduces power consumption by up to 25%
+This module aims to increase Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 
 ## What it does
-This module uses the tool "resetprop" to modify the default values found in build.prop to enhance gpu and accelerates your device performance to the highest level!.
+Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
 
 ## Requirements
-* Magisk v15.0 or higher
+- Magisk v15.0 or higher
 
 ## Changelog 
-* v1.0 - Initial Releaase
-* v2.0 - Various fixes, Removed unused codes, Added GPU specific functionalities, Fixed Black Screen and Game Graphic glitches.
+- v1.0 - Initial Releaase
+- v2.0 - Various fixes, Removed unused codes, Added GPU specific functionalities, Fixed Black Screen and Game Graphic glitches.
+- v3.0 - Updated to latest changes and optimizations.
 
 ## Links
-* <a href="https://forum.xda-developers.com/apps/magisk/module-gpu-turbo-boost-t3808541">XDA GPU Turbo Boost Link</a>
-* <a href="http://www.tiny.cc/latestmagisk">Latest stable Magisk</a>
+- <a href="https://t.me/EmperorEye1993">Telegram Account</a>
+- <a href="https://forum.xda-developers.com/apps/magisk/module-gpu-turbo-boost-t3808541">XDA GPU Turbo Boost Link</a>
+- <a href="http://www.tiny.cc/latestmagisk">Latest stable Magisk</a>
