@@ -1,7 +1,7 @@
 id=GPUTurboBoost
 name=GPU Turbo Boost
-version=v2.0
-versionCode=2
+version=v3.0
+versionCode=3
 author=EmperorEye1993
-description=This module allows GPU Turbo tweak to increase the phone’s GPU power by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
+description=This module aims to increase Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 minMagisk=1500
