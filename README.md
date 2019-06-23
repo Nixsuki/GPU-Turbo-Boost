@@ -11,7 +11,7 @@ Modifying values found in stock kernel, custom kernel and build.prop, enhances g
 ## Changelog 
 - v1.0 - Initial Releaase
 - v2.0 - Various fixes, Removed unused codes, Added GPU specific functionalities, Fixed Black Screen and Game Graphic glitches.
-- v3.0 - Updated to latest changes and optimizations.
+- v3.0 - Various under the hood optimizations.
 
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
