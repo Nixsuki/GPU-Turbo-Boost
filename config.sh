@@ -28,10 +28,10 @@ AUTOMOUNT=false
 PROPFILE=true
 
 # Set to true if you need post-fs-data script
-POSTFSDATA=false
+POSTFSDATA=true
 
 # Set to true if you need late_start service script
-LATESTARTSERVICE=false
+LATESTARTSERVICE=true
 
 ##########################################################################################
 # Installation Message
@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "*       GPU Turbo Boost       *"
+  ui_print "*     GPU Turbo Boost v3.0    *"
   ui_print "*      by: EmperorEye1993     *"
   ui_print "*******************************"
 }
