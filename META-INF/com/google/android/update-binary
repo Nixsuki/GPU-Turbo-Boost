@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@EmperorEye1993 
-topjohnwu
-/
-Magisk
-516
-9.4k1.6k
- Code Issues 32 Pull requests 18 Security Insights
-Magisk/scripts/module_installer.sh
-@topjohnwu topjohnwu Match exact "SKIPUNZIP=1" to prevent confusion
-46ba726 on Dec 29, 2019
-173 lines (131 sloc)  3.71 KB
-  
 #!/sbin/sh
 
 #################
@@ -191,15 +171,3 @@ rm -rf $TMPDIR
 
 ui_print "- Done"
 exit 0
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
