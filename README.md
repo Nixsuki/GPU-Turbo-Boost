@@ -17,4 +17,4 @@ Modifying values found in stock kernel, custom kernel and build.prop, enhances g
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
 - <a href="https://forum.xda-developers.com/apps/magisk/module-gpu-turbo-boost-t3808541">XDA GPU Turbo Boost Link</a>
-- <a href="http://www.tiny.cc/latestmagisk">Latest stable Magisk</a>
+- <a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Latest Stable Magisk</a>
