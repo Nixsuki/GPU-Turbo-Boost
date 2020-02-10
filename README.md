@@ -6,12 +6,13 @@ This module aims to increase Snapdragon powered devices by up to 75% but at the 
 Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
 
 ## Requirements
-- Magisk v15.0 or higher
+- Magisk v19.0 or higher
 
 ## Changelog 
 - v1.0 - Initial Releaase
 - v2.0 - Various fixes, Removed unused codes, Added GPU specific functionalities, Fixed Black Screen and Game Graphic glitches.
 - v3.0 - Various under the hood optimizations.
+- v4.0 - Updated for system as root support.
 
 ## Links
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
