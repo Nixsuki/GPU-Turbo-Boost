@@ -2,6 +2,16 @@
 ## Description
 This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 
+## Supported vendors
+- Snapdragon
+- MediaTek
+- Exynos
+- HiSilicon Kirin
+
+## Supported Architectures
+- Arm & Arm64
+- x86 & x86_64
+
 ## What it does
 Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
 
