@@ -1,6 +1,4 @@
-# This file will be read by resetprop
-# Example: Change dpi
-# ro.sf.lcd_density=320
+# GPU Turbo Boost system properties
 
 debug.composition.type=gpu
 debug.composition.type=c2d
@@ -20,6 +18,22 @@ persist.sys.ui.hw=1
 ro.config.enable.hw_accel=true
 ro.product.gpu.driver=1
 ro.fb.mode=1
-ro.vold.umsdirtyratio=50
+ro.vold.umsdirtyratio=60
 ro.sf.compbypass.enable=0
 video.accelerate.hw=1
+
+# Graphics
+
+persist.demo.hdmirotationlock=false
+persist.hwc.enable_vds=1
+ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
+ro.surface_flinger.has_HDR_display=true
+ro.surface_flinger.has_wide_color_display=true
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
+ro.surface_flinger.max_virtual_display_dimension=4096
+ro.surface_flinger.protected_contents=true
+ro.surface_flinger.use_color_management=true
+
+# Memory
+
+ro.vendor.qti.sys.fw.bservice_enable=true
