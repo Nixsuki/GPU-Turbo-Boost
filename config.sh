@@ -41,7 +41,7 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "*     GPU Turbo Boost v4.0    *"
+  ui_print "*     GPU Turbo Boost v5.0    *"
   ui_print "*      by: EmperorEye1993     *"
   ui_print "*******************************"
 }
