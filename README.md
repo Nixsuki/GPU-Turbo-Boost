@@ -30,6 +30,7 @@ If you feel it helps your gaming experience, a cup of milk tea is highly appreci
 - <a href="https://www.paypal.me/EmperorEye1993">Support The Development Here</a>
 
 ## Links
+- <a href="https://t.me/GPUTurboBoost">Official Telegram Channel</a>
 - <a href="https://t.me/EmperorEye1993">Telegram Account</a>
 - <a href="https://forum.xda-developers.com/apps/magisk/module-gpu-turbo-boost-t3808541">XDA GPU Turbo Boost Link</a>
 - <a href="https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445">Latest Stable Magisk</a>
