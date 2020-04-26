@@ -13,7 +13,7 @@ write /sys/devices/soc/1c00000.qcom,kgsl-3d0/devfreq/1c00000.qcom,kgsl-3d0/gover
 write /sys/class/kgsl/kgsl-3d0/devfreq/governor msm-adreno-tz
 write /sys/module/adreno_idler/parameters/adreno_idler_active 0
 write /sys/module/lazyplug/parameters/nr_possible_cores 8
-write /dev/cpuset/foreground/cpus 0-2,4-7
+write /dev/cpuset/foreground/cpus 0-3,4-7
 write /dev/cpuset/foreground/boost/cpus 4-7
 write /dev/cpuset/top-app/cpus 0-7
 # This script will be executed in late_start service mode
