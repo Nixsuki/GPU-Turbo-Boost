@@ -1,7 +1,7 @@
 id=GPUTurboBoost
 name=GPU Turbo Boost
-version=v4.0
-versionCode=400
+version=v5.0
+versionCode=500
 author=EmperorEye1993
-description=This module aims to increase Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
-minMagisk=1500
+description=This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
+
