@@ -1,7 +1,6 @@
 id=GPUTurboBoost
 name=GPU Turbo Boost
-version=v5.0
-versionCode=500
-author=EmperorEye1993
+version=v6.0
+versionCode=600
+author=EmperorEye1993 @ xda-developers
 description=This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
-
