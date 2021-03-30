@@ -1,7 +1,7 @@
 # GPU Turbo Boost system properties
 
-debug.composition.type=gpu
 debug.composition.type=c2d
+debug.composition.type=gpu
 debug.egl.hw=1
 debug.egl.profiler=1
 debug.enabletr=true
@@ -18,7 +18,6 @@ persist.sys.ui.hw=1
 ro.config.enable.hw_accel=true
 ro.product.gpu.driver=1
 ro.fb.mode=1
-ro.vold.umsdirtyratio=60
 ro.sf.compbypass.enable=0
 video.accelerate.hw=1
 
@@ -37,3 +36,7 @@ ro.surface_flinger.use_color_management=true
 # Memory
 
 ro.vendor.qti.sys.fw.bservice_enable=true
+
+# Perf
+ro.vendor.qti.core.ctl_max_cpu=4
+ro.vendor.qti.core.ctl_min_cpu=2
