@@ -3,7 +3,6 @@
 debug.composition.type=c2d
 debug.composition.type=gpu
 debug.egl.hw=1
-debug.egl.profiler=1
 debug.enabletr=true
 debug.overlayui.enable=1
 debug.performance.tuning=1
@@ -21,8 +20,7 @@ ro.fb.mode=1
 ro.sf.compbypass.enable=0
 video.accelerate.hw=1
 
-# Graphics
-
+# Graphic properties
 persist.demo.hdmirotationlock=false
 persist.hwc.enable_vds=1
 ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
@@ -31,10 +29,9 @@ ro.surface_flinger.has_wide_color_display=true
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 ro.surface_flinger.max_virtual_display_dimension=4096
 ro.surface_flinger.protected_contents=true
+
+# Memory  properties
 ro.surface_flinger.use_color_management=true
-
-# Memory
-
 ro.vendor.qti.sys.fw.bservice_enable=true
 
 # Perf
