@@ -16,7 +16,7 @@ This module aims to increase Android powered devices by up to 75% but at the sam
 Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
 
 ## Requirements
-- Magisk v19.0 or higher
+- Magisk v22.0 or higher
 
 ## Changelog 
 - v1.0 - Initial Releaase
@@ -25,6 +25,7 @@ Modifying values found in stock kernel, custom kernel and build.prop, enhances g
 - v4.0 - Updated for system as root support.
 - v5.0 - Updated Optimization and Universal changes.
 - v6.0 - Add perf to the property family, Removed redundant properties, Removed useless properties that affects to some Stock & Custom ROMs.
+- v6.1 - Hotfix, Code Revisions, Support many devices, Now you can view codes to /data/adb/modules.
 
 ## Support
 If you feel it helps your gaming experience, a cup of milk tea is highly appreciated.
