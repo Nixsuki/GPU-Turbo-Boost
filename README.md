@@ -1,22 +1,18 @@
 # GPU Turbo Boost
 ## Description
-This module aims to increase Android powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
+This module aims to increase Qualcomm Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
 
-## Supported vendors
-- Snapdragon
-- MediaTek
-- Exynos
-- HiSilicon Kirin
+## Supported Processor
+- Snapdragon only!
 
 ## Supported Architectures
 - Arm & Arm64
-- x86 & x86_64
 
 ## What it does
 Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
 
 ## Requirements
-- Magisk v22.0 or higher
+- Magisk v23.0 or higher
 
 ## Changelog 
 - v1.0 - Initial Releaase
@@ -26,6 +22,7 @@ Modifying values found in stock kernel, custom kernel and build.prop, enhances g
 - v5.0 - Updated Optimization and Universal changes.
 - v6.0 - Add perf to the property family, Removed redundant properties, Removed useless properties that affects to some Stock & Custom ROMs.
 - v6.1 - Hotfix, Code Revisions, Support many devices, Now you can view codes to /data/adb/modules.
+- v6.1.1 - Fix black screen issues from other devices, GoodBye! (Exynos, Kirin & MediaTek), Optimize Snapdragon support!.
 
 ## Support
 If you feel it helps your gaming experience, a cup of milk tea is highly appreciated.
