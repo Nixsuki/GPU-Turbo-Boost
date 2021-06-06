@@ -2,12 +2,9 @@
 
 debug.composition.type=c2d
 debug.composition.type=gpu
-debug.egl.hw=1
 debug.enabletr=true
 debug.overlayui.enable=1
 debug.performance.tuning=1
-debug.sf.hw=1
-dev.pm.dyn_samplingrate=1
 hw3d.force=1
 hwui.disable_vsync=true
 hwui.render_dirty_regions=false
@@ -21,17 +18,18 @@ ro.sf.compbypass.enable=0
 video.accelerate.hw=1
 
 # Graphic properties
-persist.demo.hdmirotationlock=false
-persist.hwc.enable_vds=1
-ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
-ro.surface_flinger.has_HDR_display=true
-ro.surface_flinger.has_wide_color_display=true
-ro.surface_flinger.max_frame_buffer_acquired_buffers=3
-ro.surface_flinger.max_virtual_display_dimension=4096
-ro.surface_flinger.protected_contents=true
+debug.egl.hw=0
+debug.gralloc.gfx_ubwc_disable=0
+debug.mdpcomp.logs=0
+debug.sf.enable_advanced_sf_phase_offset=1
+debug.sf.enable_hwc_vds=1
+debug.sf.enable_gl_backpressure=1
+debug.sf.hw=0
+debug.sf.latch_unsignaled=1
+persist.vendor.color.matrix=2
+vendor.gralloc.disable_ubwc=0
 
 # Memory  properties
-ro.surface_flinger.use_color_management=true
 ro.vendor.qti.sys.fw.bservice_enable=true
 
 # Perf
