@@ -14,15 +14,9 @@ Modifying values found in stock kernel, custom kernel and build.prop, enhances g
 ## Requirements
 - Magisk v23.0 or higher
 
-## Changelog 
-- v1.0 - Initial Releaase
-- v2.0 - Various fixes, Removed unused codes, Added GPU specific functionalities, Fixed Black Screen and Game Graphic glitches.
-- v3.0 - Various under the hood optimizations.
-- v4.0 - Updated for system as root support.
-- v5.0 - Updated Optimization and Universal changes.
-- v6.0 - Add perf to the property family, Removed redundant properties, Removed useless properties that affects to some Stock & Custom ROMs.
-- v6.1 - Hotfix, Code Revisions, Support many devices, Now you can view codes to /data/adb/modules.
-- v6.1.1 - Fix black screen issues from other devices, GoodBye! (Exynos, Kirin & MediaTek), Optimize Snapdragon support!.
+## Changelogs
+
+- Check out what's new [here](https://github.com/EmperorEye1993/GPU-Turbo-Boost/blob/master/CHANGELOG.md)
 
 ## Support
 If you feel it helps your gaming experience, a cup of milk tea is highly appreciated.
