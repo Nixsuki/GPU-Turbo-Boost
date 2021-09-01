@@ -30,7 +30,3 @@ ro.vendor.qti.sys.fw.bservice_enable=true
 # Perf
 ro.vendor.qti.core.ctl_max_cpu=4
 ro.vendor.qti.core.ctl_min_cpu=2
-
-# Touchscreen
-persist.vendor.qti.inputopts.enable=true
-persist.vendor.qti.inputopts.movetouchslop=0.6
