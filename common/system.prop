@@ -21,11 +21,6 @@ video.accelerate.hw=1
 debug.egl.hw=0
 debug.gralloc.gfx_ubwc_disable=0
 debug.mdpcomp.logs=0
-debug.sf.enable_advanced_sf_phase_offset=1
-debug.sf.enable_hwc_vds=1
-debug.sf.enable_gl_backpressure=1
-debug.sf.hw=0
-debug.sf.latch_unsignaled=1
 persist.vendor.color.matrix=2
 vendor.gralloc.disable_ubwc=0
 
