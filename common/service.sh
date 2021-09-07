@@ -22,8 +22,8 @@ write /sys/class/kgsl/kgsl-3d0/force_clk_on 1
 write /sys/class/kgsl/kgsl-3d0/force_bus_on 1
 write /sys/class/kgsl/kgsl-3d0/force_rail_on 1
 write /sys/class/kgsl/kgsl-3d0/force_no_nap 1
-write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_drv
-write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_ctxt
-write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_cmd
-write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_pwr
-write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_mem
+write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_drv 0
+write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_ctxt 0
+write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_cmd 0
+write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_pwr 0
+write /sys/kernel/debug/kgsl/kgsl-3d0/log_level_mem 0
