@@ -1,6 +1,6 @@
 # GPU Turbo Boost
 ## Description
-This module aims to increase Qualcomm Snapdragon powered devices by up to 75% but at the same time reduces power consumption by up to 25% seamlessly.
+This module aims to increase performance of Qualcomm Snapdragon powered devices by up to 75% and at the same time reduces power consumption by up to 25% seamlessly.
 
 ## Supported Processor
 - Snapdragon only!
@@ -9,7 +9,7 @@ This module aims to increase Qualcomm Snapdragon powered devices by up to 75% bu
 - Arm & Arm64
 
 ## What it does
-Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!.
+Modifying values found in stock kernel, custom kernel and build.prop, enhances gpu and accelerates your device performance to the highest level!
 
 ## Requirements
 - Magisk v23.0 or higher
