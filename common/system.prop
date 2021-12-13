@@ -1,5 +1,3 @@
-# GPU Turbo Boost system properties
-
 debug.composition.type=c2d
 debug.composition.type=gpu
 debug.enabletr=true
@@ -16,17 +14,12 @@ ro.product.gpu.driver=1
 ro.fb.mode=1
 ro.sf.compbypass.enable=0
 video.accelerate.hw=1
-
-# Graphic properties
 debug.egl.hw=0
 debug.gralloc.gfx_ubwc_disable=0
 debug.mdpcomp.logs=0
 persist.vendor.color.matrix=2
 vendor.gralloc.disable_ubwc=0
-
-# Memory  properties
+ro.vendor.qti.sys.fw.bg_apps_limit=120
 ro.vendor.qti.sys.fw.bservice_enable=true
-
-# Perf
 ro.vendor.qti.core.ctl_max_cpu=4
 ro.vendor.qti.core.ctl_min_cpu=2
